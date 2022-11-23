@@ -1,0 +1,14 @@
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleDeneme\bin\Debug\ConsoleDeneme.exe.config
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleDeneme\bin\Debug\ConsoleDeneme.exe
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleDeneme\bin\Debug\ConsoleDeneme.pdb
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleDeneme\obj\Debug\ConsoleDeneme.csprojAssemblyReference.cache
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleDeneme\obj\Debug\ConsoleDeneme.csproj.CoreCompileInputs.cache
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleDeneme\obj\Debug\ConsoleDeneme.exe
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleDeneme\obj\Debug\ConsoleDeneme.pdb
+D:\Turan\Seyda2\ConsoleSoli\ConsoleDeneme\bin\Debug\ConsoleDeneme.exe.config
+D:\Turan\Seyda2\ConsoleSoli\ConsoleDeneme\bin\Debug\ConsoleDeneme.exe
+D:\Turan\Seyda2\ConsoleSoli\ConsoleDeneme\bin\Debug\ConsoleDeneme.pdb
+D:\Turan\Seyda2\ConsoleSoli\ConsoleDeneme\obj\Debug\ConsoleDeneme.csprojAssemblyReference.cache
+D:\Turan\Seyda2\ConsoleSoli\ConsoleDeneme\obj\Debug\ConsoleDeneme.csproj.CoreCompileInputs.cache
+D:\Turan\Seyda2\ConsoleSoli\ConsoleDeneme\obj\Debug\ConsoleDeneme.exe
+D:\Turan\Seyda2\ConsoleSoli\ConsoleDeneme\obj\Debug\ConsoleDeneme.pdb

@@ -1,0 +1,14 @@
+D:\Turan\ConsoleSoli\ConsoleClass\bin\Debug\ConsoleClass.exe.config
+D:\Turan\ConsoleSoli\ConsoleClass\bin\Debug\ConsoleClass.exe
+D:\Turan\ConsoleSoli\ConsoleClass\bin\Debug\ConsoleClass.pdb
+D:\Turan\ConsoleSoli\ConsoleClass\obj\Debug\ConsoleClass.csprojAssemblyReference.cache
+D:\Turan\ConsoleSoli\ConsoleClass\obj\Debug\ConsoleClass.csproj.CoreCompileInputs.cache
+D:\Turan\ConsoleSoli\ConsoleClass\obj\Debug\ConsoleClass.exe
+D:\Turan\ConsoleSoli\ConsoleClass\obj\Debug\ConsoleClass.pdb
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleClass\bin\Debug\ConsoleClass.exe.config
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleClass\bin\Debug\ConsoleClass.exe
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleClass\bin\Debug\ConsoleClass.pdb
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleClass\obj\Debug\ConsoleClass.csprojAssemblyReference.cache
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleClass\obj\Debug\ConsoleClass.csproj.CoreCompileInputs.cache
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleClass\obj\Debug\ConsoleClass.exe
+C:\Users\konuk\Desktop\ConsoleSoli\ConsoleClass\obj\Debug\ConsoleClass.pdb

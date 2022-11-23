@@ -1,0 +1,14 @@
+D:\Turan\ConsoleSoli\Console1410\bin\Debug\Console1410.exe.config
+D:\Turan\ConsoleSoli\Console1410\bin\Debug\Console1410.exe
+D:\Turan\ConsoleSoli\Console1410\bin\Debug\Console1410.pdb
+D:\Turan\ConsoleSoli\Console1410\obj\Debug\Console1410.csprojAssemblyReference.cache
+D:\Turan\ConsoleSoli\Console1410\obj\Debug\Console1410.csproj.CoreCompileInputs.cache
+D:\Turan\ConsoleSoli\Console1410\obj\Debug\Console1410.exe
+D:\Turan\ConsoleSoli\Console1410\obj\Debug\Console1410.pdb
+C:\Users\konuk\Desktop\ConsoleSoli\Console1410\bin\Debug\Console1410.exe.config
+C:\Users\konuk\Desktop\ConsoleSoli\Console1410\bin\Debug\Console1410.exe
+C:\Users\konuk\Desktop\ConsoleSoli\Console1410\bin\Debug\Console1410.pdb
+C:\Users\konuk\Desktop\ConsoleSoli\Console1410\obj\Debug\Console1410.csprojAssemblyReference.cache
+C:\Users\konuk\Desktop\ConsoleSoli\Console1410\obj\Debug\Console1410.csproj.CoreCompileInputs.cache
+C:\Users\konuk\Desktop\ConsoleSoli\Console1410\obj\Debug\Console1410.exe
+C:\Users\konuk\Desktop\ConsoleSoli\Console1410\obj\Debug\Console1410.pdb
